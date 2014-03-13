@@ -1,4 +1,5 @@
 megaruta
 ========
+MegaRuta app manages digital money.
 
-Mock-up
+Will update as Phase I develops.
